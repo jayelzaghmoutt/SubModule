@@ -1,5 +1,5 @@
 /// AttendanceAlert
-struct Test {
+struct TestSubModule {
     
     /// Id
     var id: Int
